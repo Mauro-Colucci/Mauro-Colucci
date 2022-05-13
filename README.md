@@ -16,5 +16,5 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="460px"/>
+  <img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif" width="600px"/>
 </div>
