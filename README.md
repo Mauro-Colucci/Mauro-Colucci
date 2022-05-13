@@ -28,7 +28,7 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mauro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurocolucci/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mauro-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maurocolucci/) [![Gmail Badge](https://img.shields.io/badge/-%20Mauro-red?style=flat&logo=Gmail&logoColor=white)]
 
 ---
 
