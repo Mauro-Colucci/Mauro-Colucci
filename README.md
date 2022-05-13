@@ -37,3 +37,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mauro-Colucci&theme=dark&background=000000)](https://git.io/streak-stats)
 
+https://github-readme-codewars-stats.herokuapp.com/api/?username=[Mauro Colucci]&badge&name_only
+
