@@ -69,7 +69,7 @@ See [my website]() for more information!
       <h3 align="center">Cerulean - Vintage wear</h3>
       <br />
         <a target="_blank" href="https://github.com/Mauro-Colucci/fullStack_ecommerce">
-            <img src="./ceruleanVintage.gif" width="100%" alt="Site"/>
+            <img src="./CeruleanVintage.gif" width="100%" alt="Site"/>
         </a>
       <br />
         <p align="center">
