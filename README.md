@@ -20,7 +20,7 @@
 
 Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in hard science, telecommunications engineering and management.
 
-See [my website]() for more information!
+See [my website](https://mauro-portfolio.netlify.app/) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#d1345f">
