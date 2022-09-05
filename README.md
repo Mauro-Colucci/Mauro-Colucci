@@ -10,10 +10,10 @@
   <a href="https://twitter.com/Im_Maucci" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=790932&style=flat-square&logo=twitter&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://angel.co/u/mauro-colucci" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=c41646&style=flat-square&logo=angellist&logo-color=white"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://mauro-portfolio.netlify.app/document/MauroColucciCV.pdf" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=790932&style=flat-square&logo=react&logo-color=white"/>
   </a>
 </p>
